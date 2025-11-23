@@ -33,7 +33,7 @@ We have uploaded 3 sample cases of data with different scenes (kpop, box and sin
 
 ### Download our dataset
 
-The dataset is available on [GoogleDrive](https://drive.google.com/drive/folders/1nIl3wmbp10eN0X6z5W04GIZa1MNLv7i8?usp=sharing) and requires permission to access it. Please carefully read, fill in the [license form](./license.pdf), and send it to Lan Xu (xulan1@shanghaitech.edu.cn) and cc Liao Wang (wangla@shanghaitech.edu.cn), Neudim (hello@neudim.com) to request access.
+The dataset is available on [GoogleDrive](https://drive.google.com/drive/folders/1nIl3wmbp10eN0X6z5W04GIZa1MNLv7i8?usp=sharing) and requires permission to access it. Please carefully read, fill in the [license form](./license.pdf), and send it to Lan Xu (xulan1@shanghaitech.edu.cn) and cc Liao Wang (czzx_2012_231@126.com), Neudim (hello@neudim.com) to request access.
 
 By requesting access to the content, you acknowledge that you have read this agreement, understand it, and agree to be bound by its terms and conditions. This agreement constitutes a legal and binding agreement between you and the provider of the protected system or content. The Neudim is the only owner of all intellectual property rights, including copyright, of ReRF DATASET, and Neudim reserves the right to terminate your access to the dataset at any time.
 
